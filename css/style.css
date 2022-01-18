@@ -136,12 +136,39 @@
     }
 }
 
+@media (min-width:279px) and (max-width:281px){
+    .content-x{
+         padding-right: 10% !important;
+         padding-bottom: 5% !important;
+    }
+}
+
 
 @media (min-width:200px) and (max-width:767px){
     #text-col{
         visibility: hidden;
     }
 }
+
+.footer-logo img{
+    height: 50px;
+    width: 300px;
+}
+
+@media (min-width:538px) and (max-width:540px){
+    .footer-logo img{
+        height: 48px;
+        width: 300px;
+    }
+}
+
+@media (max-width:282px){
+    .nav-span-fold{
+        width: 280px;
+    }
+}
+
+
 
 
 
@@ -1133,6 +1160,7 @@ section#portfolio {
 .img-responsive {
     width: 100%;
 }
+
 
 .portfolio-items {
     padding: 0px !important;

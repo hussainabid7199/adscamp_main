@@ -84,10 +84,23 @@
     }
 }
 
+@media (min-width:1020px) and (max-width: 1025px){
+    .row > .col-md-12 > .intro-text> h1{ 
+          font-size: 30px !important;
+          
+    }
+}
 
 @media (min-width:280px) and (max-width: 415px){
     .row > .col-md-12 > .intro-text> h2{ 
           font-size: 25px !important;
+    }
+}
+
+
+@media (min-width:539px) and (max-width: 541px){
+    .row > .col-md-12 > .intro-text> h2{ 
+          font-size: 50px !important;
     }
 }
 
@@ -110,6 +123,27 @@
          padding-right: 13% !important;
     }
 }
+
+@media (min-width:767px) and (max-width:921px){
+    .content-x{
+         padding-right: 0.8% !important;
+    }
+}
+
+@media (min-width:538px) and (max-width:542px){
+    .content-x{
+         padding-right: 0.8% !important;
+    }
+}
+
+
+@media (min-width:200px) and (max-width:767px){
+    #text-col{
+        visibility: hidden;
+    }
+}
+
+
 
 
 /* My Custmisation */

@@ -1,4 +1,17 @@
 <?php
+
+  $server = "sql104.epizy.com";
+  $username = "epiz_30830724";
+  $password = "UBtXELaw5Nsnaa";
+  $dbname = "epiz_30830724_form";
+
+  $conn = mysquli_connect($server, $username, $password, $dbname);
+
+  if(!$conn){
+    die("Connection failed :".mysquli_connect_error());
+  }
+
+
   $name = $_POST['name'];
   $email = $_POST['email'];
   $phone = $_POST['phone'];

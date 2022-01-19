@@ -1,9 +1,9 @@
 <?php
 
-  $server = "sql104.epizy.com";
-  $username = "epiz_30830724";
-  $password = "UBtXELaw5Nsnaa";
-  $dbname = "epiz_30830724_form";
+  $server = "";
+  $username = "";
+  $password = "";
+  $dbname = "";
 
   $conn = mysquli_connect($server, $username, $password, $dbname);
 

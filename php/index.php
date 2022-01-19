@@ -13,7 +13,7 @@
     $name = $_POST["name"];
     $email= $_POST["email"];
     $phone= $_POST["phone"];
-    $text= $_POST["message"];
+    $message= $_POST["message"];
     // $sub= $_POST["sub"];
     
 
@@ -27,8 +27,8 @@
             <td>'.$name.'</td>
         </tr>
         <tr><td>Email: '.$email.'</td></tr>
-        <tr><td>phone: '.$sub.'</td></tr>
-        <tr><td>Text: '.$text.'</td></tr>
+        <tr><td>phone: '.$phone.'</td></tr>
+        <tr><td>Text: '.$message.'</td></tr>
         
     </table>';
 

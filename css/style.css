@@ -84,6 +84,13 @@
     }
 }
 
+@media (min-width:352px) and (max-width: 355px){
+    .row > .col-md-12 > .intro-text> h1{ 
+          font-size: 14px !important;
+          
+    }
+}
+
 @media (min-width:1020px) and (max-width: 1025px){
     .row > .col-md-12 > .intro-text> h1{ 
           font-size: 30px !important;

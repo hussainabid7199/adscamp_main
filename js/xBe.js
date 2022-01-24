@@ -83,7 +83,7 @@ $(function() {
 
         function initialize() {
             var geocoder = new google.maps.Geocoder();
-            var address = $('https://www.google.com/maps/place/adsCamponline/@26.2347125,84.3675128,17z/data=!3m1!4b1!4m5!3m4!1s0x3992fd73e7eb7ab1:0x9f327ff6b45bef3c!8m2!3d26.2347125!4d84.3697015').text(); /* change the map-input to your address */
+            var address = $('https://www.google.com/maps/embed?pb=place/adsCamponline/@26.2347125,84.3675128,17z/data=!3m1!4b1!4m5!3m4!1s0x3992fd73e7eb7ab1:0x9f327ff6b45bef3c!8m2!3d26.2347125!4d84.3697015').text(); /* change the map-input to your address */
             var mapOptions = {
                 zoom: 15,
                 mapTypeId: google.maps.MapTypeId.ROADMAP,

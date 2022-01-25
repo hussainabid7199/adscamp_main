@@ -224,6 +224,7 @@
     h4{
         font-size: 15px !important;
         width: 100% !important;
+        height: auto !important;
         text-align: center !important;
     }
 }
@@ -232,6 +233,7 @@
     h4{
         font-size: 20px !important;
         width: 100% !important;
+        height: auto !important;
         text-align: center !important;
     }
 }
@@ -240,6 +242,7 @@
     h4{
         font-size: 25px !important;
         width: 100% !important;
+        height: auto !important;
         text-align: center !important;
     }
 }

@@ -224,10 +224,7 @@
     h4{
         font-size: 15px !important;
         width: 100% !important;
-        align-content: center !important;
         text-align: center !important;
-        padding-left: 40% !important;
-        padding-right: 40% !important; 
     }
 }
 
@@ -235,10 +232,7 @@
     h4{
         font-size: 20px !important;
         width: 100% !important;
-        align-content: center !important;
         text-align: center !important;
-        padding-left: 40% !important;
-        padding-right: 40% !important; 
     }
 }
 
@@ -247,9 +241,6 @@
         font-size: 25px !important;
         width: 100% !important;
         text-align: center !important;
-        align-content: center !important;
-        padding-left: 40% !important;
-        padding-right: 40% !important; 
     }
 }
 

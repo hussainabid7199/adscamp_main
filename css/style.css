@@ -247,6 +247,11 @@
     }
 }
 
+.rup-simbl{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 .blink{
     text-decoration: none;
     color: white;

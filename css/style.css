@@ -111,6 +111,43 @@
     }
 }
 
+/* #.........................# uo */
+@media (min-width:280px) and (max-width: 415px){
+    .row > .col-md-12 > .intro-text> h6{ 
+          font-size: 15px !important;
+          
+    }
+}
+
+@media (min-width:352px) and (max-width: 355px){
+    h6{ 
+          font-size: 14px !important;
+          
+    }
+}
+
+@media (min-width:1020px) and (max-width: 1025px){
+      h6{ 
+          font-size: 30px !important;
+          
+    }
+}
+
+@media (min-width:280px) and (max-width: 415px){
+     h6{ 
+          font-size: 25px !important;
+    }
+}
+
+
+@media (min-width:539px) and (max-width: 541px){
+     h6{ 
+          font-size: 10px !important;
+    }
+}
+
+
+/* l.................................. l  */
 .online-font{
     font-size: 15px;
 }
@@ -186,6 +223,10 @@
     font-size: 20px !important;
 }
 
+.blink{
+    text-decoration: none;
+    color: white;
+}
 
 
 /* My Custmisation */

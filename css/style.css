@@ -230,6 +230,16 @@
 }
 
 
+.greeting{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+
 /* My Custmisation */
 
 body {
